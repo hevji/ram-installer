@@ -1,0 +1,4 @@
+/* Adds 16GB of RAM visually */
+body {
+    --extra-ram: 16gb;
+}
