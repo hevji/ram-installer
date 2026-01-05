@@ -1,4 +1,4 @@
 fn main() {
     println!("Installing RAM...");
-    println!("Error: RAM escaped into the void.");
+    println!("Error: module ram is not installed.");
 }
