@@ -186,4 +186,4 @@ You are among friends
 
 - It is a visual joke project only.
 
-Enjoy *'responsibly'* 💾
+Enjoy *responsibly* 💾
