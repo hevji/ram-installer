@@ -152,13 +152,15 @@ You may:
 
 - Trick your friends (ethically)
 
-You may not:
+# You may not⚠️:
 
 - Claim it installs real RAM
 
 - Use it to scam people
 
-🧠 Final Notes
+  **You are gulty off the consequences, *WE WARNED YOU***
+
+## 🧠 Final Notes
 
 If you came here hoping to download more RAM:
 
@@ -170,7 +172,7 @@ If you came here for the joke:
 
 You are among friends
 
-🧡 Disclaimer (Again, because people skip reading)
+# 🧡 Disclaimer (Again, because people skip reading)
 
 ## THIS PROJECT DOES NOT:
 
