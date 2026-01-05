@@ -97,7 +97,7 @@ No.
 Worst case scenarios:
 - You laugh
 - You roll your eyes
-- You uninstall Python
+- You uninstall Python (why would you)
 
 Your RAM, storage, CPU, GPU, BIOS, and soul remain untouched.
 
