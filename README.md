@@ -172,7 +172,7 @@ You are among friends
 
 🧡 Disclaimer (Again, because people skip reading)
 
-THIS PROJECT DOES NOT:
+## THIS PROJECT DOES NOT:
 
 - Add RAM
 
@@ -182,8 +182,8 @@ THIS PROJECT DOES NOT:
 
 - Increase usable memory
 
-= Modify system configuration
+ Modify system configuration
 
 - It is a visual joke project only.
 
-Enjoy responsibly 💾
+Enjoy *'responsibly'* 💾
