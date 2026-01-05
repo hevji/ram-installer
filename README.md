@@ -120,55 +120,53 @@ pip install pyqt6 psutil
 python ram_installer.py
 ```
 
-"That’s it."
+*That’s it.*
 
 No admin rights required.
 No reboot required.
 No warranty provided.
 
-📉 Why does GitHub show so many languages?
+## 📉 Why does GitHub show so many languages?
 
 Because this project is:
 
--Dramatic
+- Dramatic
 
--Over-engineered
+- Over-engineered
 
--Slightly unhinged
+- Slightly unhinged
 
 -Language distribution is intentionally skewed using decoy files.
 
-🧾 License
+## 🧾 License
 
 MIT License.
 
 You may:
 
--Fork it
+- Fork it
 
--Modify it
+- Modify it
 
--Laugh at it
+- Laugh at it
 
--Trick your friends (ethically)
+- Trick your friends (ethically)
 
 You may not:
 
--Claim it installs real RAM
+- Claim it installs real RAM
 
--Use it to scam people
+- Use it to scam people
 
 🧠 Final Notes
 
 If you came here hoping to download more RAM:
 
 I admire your optimism
-
 But unfortunately, physics still exists
-
 If you came here for the joke:
 
-Welcome
+- Welcome
 
 You are among friends
 
@@ -176,16 +174,16 @@ You are among friends
 
 THIS PROJECT DOES NOT:
 
-Add RAM
+- Add RAM
 
-Download RAM
+- Download RAM
 
-Unlock RAM
+- Unlock RAM
 
-Increase usable memory
+- Increase usable memory
 
-Modify system configuration
+= Modify system configuration
 
-It is a visual joke project only.
+- It is a visual joke project only.
 
 Enjoy responsibly 💾
