@@ -113,3 +113,79 @@ For the Python GUI:
 Install dependencies:
 ```bash
 pip install pyqt6 psutil
+```
+
+## ▶️ Running the project
+```
+python ram_installer.py
+```
+
+"That’s it."
+
+No admin rights required.
+No reboot required.
+No warranty provided.
+
+📉 Why does GitHub show so many languages?
+
+Because this project is:
+
+-Dramatic
+
+-Over-engineered
+
+-Slightly unhinged
+
+-Language distribution is intentionally skewed using decoy files.
+
+🧾 License
+
+MIT License.
+
+You may:
+
+-Fork it
+
+-Modify it
+
+-Laugh at it
+
+-Trick your friends (ethically)
+
+You may not:
+
+-Claim it installs real RAM
+
+-Use it to scam people
+
+🧠 Final Notes
+
+If you came here hoping to download more RAM:
+
+I admire your optimism
+
+But unfortunately, physics still exists
+
+If you came here for the joke:
+
+Welcome
+
+You are among friends
+
+🧡 Disclaimer (Again, because people skip reading)
+
+THIS PROJECT DOES NOT:
+
+Add RAM
+
+Download RAM
+
+Unlock RAM
+
+Increase usable memory
+
+Modify system configuration
+
+It is a visual joke project only.
+
+Enjoy responsibly 💾
